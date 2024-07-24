@@ -1,0 +1,2 @@
+Mã Món Ăn		Tên Món Ăn		Đơn Giá		Số Lượng		Số Bàn		
+KV02		Nem rán		20000.0		1		1		
